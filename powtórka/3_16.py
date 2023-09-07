@@ -1,3 +1,5 @@
+
+
 a = input("Wprowadź dzwie liczby: \n")
 b = input()
 
