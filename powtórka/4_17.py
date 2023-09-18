@@ -1,6 +1,6 @@
 #17.	Create a program that calculates how many times the given letter appears in any text. 
 # Then create a program and check how many 
-# times the letter ‘e’ appears in the text below. Define a function for making calculations.
+# times the letter ‘e’ appears in the text below. Define a function for making calculations. dupa
 
 def count_letter_occurrences(text, letter):
     count = 0
